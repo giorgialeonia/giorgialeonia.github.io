@@ -1,0 +1,12 @@
+.icon:hover {
+  color: rgb(232, 75, 158);
+}
+
+a:visited {
+  color: rgb(179, 104, 119);
+}
+
+.icon {
+  color: rgb(179, 104, 119);
+  padding: 10px;
+}
