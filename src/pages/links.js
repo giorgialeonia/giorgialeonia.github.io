@@ -5,9 +5,8 @@ import '../styles/links.css';
 function Links() {
   return (
     <section className="links-section">
-      Me acompanhe!
-
-      <div>
+      <p className="me-acompanhe">Me acompanhe</p>
+      <div className="all-links">
         <a class="icon" target="_blank" rel="noreferrer" href="https://www.instagram.com/giorgialeonia/">
           <FontAwesomeIcon icon={['fab', 'instagram']} size="4x" />
         </a>

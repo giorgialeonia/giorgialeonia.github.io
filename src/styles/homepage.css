@@ -1,0 +1,52 @@
+a {
+  color: rgb(179, 104, 119);
+}
+
+a:visited {
+  color: rgb(179, 104, 119);
+}
+
+.page-title {
+  color: white;
+  font-family: 'Better Together';
+  font-size: 120px;
+  margin: auto;
+  src: url('../Better\ Together\ Script.ttf') format('truetype');
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.subtitulo {
+  color: white;
+  font-family: 'Better Together';
+  font-size: 60px;
+  margin: auto;
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.sentence {
+  color: white;
+  font-family: 'Better Together';
+  font-size: 40px;
+  margin-top: 25px;
+  src: url('../Better\ Together\ Script.ttf') format('truetype');
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.soundcloud-div {
+  display: inline-block;
+  justify-content: center;
+  width: 700px;
+}
+
+@font-face {
+  font-family: 'Better Together';
+  src: url('../Better\ Together\ Script.ttf') format('truetype');
+}
+
+@media (max-width:600px) {
+  .soundcloud-div {
+    display: inline-block;
+    justify-content: center;
+    width: 300px;
+  }
+}
