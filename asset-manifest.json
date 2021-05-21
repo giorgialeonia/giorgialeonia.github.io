@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.935c6caf.chunk.css",
+    "main.css": "/static/css/main.9cce0e03.chunk.css",
     "main.js": "/static/js/main.fe569b4e.chunk.js",
     "main.js.map": "/static/js/main.fe569b4e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.54abca1e.js",
@@ -10,7 +10,7 @@
     "static/js/3.c0188aea.chunk.js": "/static/js/3.c0188aea.chunk.js",
     "static/js/3.c0188aea.chunk.js.map": "/static/js/3.c0188aea.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.935c6caf.chunk.css.map": "/static/css/main.935c6caf.chunk.css.map",
+    "static/css/main.9cce0e03.chunk.css.map": "/static/css/main.9cce0e03.chunk.css.map",
     "static/js/2.0bc8089b.chunk.js.LICENSE.txt": "/static/js/2.0bc8089b.chunk.js.LICENSE.txt",
     "static/media/links.css": "/static/media/Better Together Script.148b5f39.ttf",
     "static/media/App.css": "/static/media/pinkcotton.ee56d9fb.jpeg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.54abca1e.js",
     "static/js/2.0bc8089b.chunk.js",
-    "static/css/main.935c6caf.chunk.css",
+    "static/css/main.9cce0e03.chunk.css",
     "static/js/main.fe569b4e.chunk.js"
   ]
 }
