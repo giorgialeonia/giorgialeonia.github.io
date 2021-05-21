@@ -6,12 +6,12 @@
   background-image: url('./imgs/pinkcotton.jpeg');
   background-size: cover;
   margin: auto;
-  height: 830px; 
+  height: 830px;
   width: 100%;
 }
 
 @media (max-width:600px) {
   .App-page {
-    height: 930px; 
+    height: 930px;
   }
 }
